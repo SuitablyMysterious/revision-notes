@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/1. Magnetic Poles.md",
+                "file": "Physics/Electromagnetism.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Magnetic Poles"
+              "title": "Electromagnetism"
             }
           }
         ]
@@ -184,7 +184,7 @@
   "active": "9f7ef31671f8c5aa",
   "lastOpenFiles": [
     "Physics/0. Topic List.pdf",
-    "Physics/1. Magnetic Poles.md",
+    "Physics/Electromagnetism.md",
     "Physics",
     "Welcome.md"
   ]
