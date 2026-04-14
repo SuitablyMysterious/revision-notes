@@ -42,4 +42,4 @@ The strength of an electromagnet depends on a couple of factors:
 
 *Fleming's left hand rule* - 1st finger gives field; 2nd gives current; thumb gives movement
 
-![[Pasted image 20260414180453.png]]
+![[Images/Pasted image 20260414180453.png]]
