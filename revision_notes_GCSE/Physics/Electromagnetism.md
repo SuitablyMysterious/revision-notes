@@ -18,3 +18,7 @@ Permanent magnets can induce a magnetic field in other magnetic metals. They do 
 
 Note: the 'north' end of a compass follows the field line from north to south (i.e. it points to the 'south' pole).
 
+### Electromagnetism:
+
+*Electromagnet* - a magnet made with a coil, core and a power supply
+*Solenoid* - a wire would round in loops and looks like a spring
