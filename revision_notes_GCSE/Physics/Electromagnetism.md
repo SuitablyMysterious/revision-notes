@@ -22,3 +22,14 @@ Note: the 'north' end of a compass follows the field line from north to south (i
 
 *Electromagnet* - a magnet made with a coil, core and a power supply
 *Solenoid* - a wire would round in loops and looks like a spring
+
+*Static* charge doesn't effect magnets, however *flowing* charge does.
+
+*Fleming's right hand rule* - Put out your right hand with your thumb pointing in the direction of current, your fingers point the magnetic field direction
+
+The strength of an electromagnet depends on a couple of factors:
+1. Number of coils
+2. Coil diameter
+3. Core material
+4. Coil current
+5. Coil frequency
