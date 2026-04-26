@@ -17,12 +17,13 @@ nav:
     - Waves: Physics/2. Waves.md
     - Mechanics: Physics/3. Mechanics.md
 
+
 markdown_extensions:
   - toc:
       permalink: true
   - fenced_code
   - pymdownx.arithmatex:
       generic: true
-
+  - nl2br
 extra_javascript:
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
