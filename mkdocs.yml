@@ -6,9 +6,16 @@ theme:
 docs_dir: revision_notes_GCSE
 
 nav:
-  - Biology: Biology/
-  - Chemistry: Chemistry/
-  - Physics: Physics/
+  - Biology:
+    - Cell Structure: Biology/1. Cell Structure.md
+  - Chemistry:
+    - Topic List: Chemistry/0. Topic List.md
+    - Atomic Structure, Bonding & Properties: Chemistry/1. Atomic Structure, Bonding & Properties.md
+    - Formulae & Equations: Chemistry/2. Formulae & Equations.md
+  - Physics:
+    - Electromagnetism: Physics/1. Electromagnetism.md
+    - Waves: Physics/2. Waves.md
+    - Mechanics: Physics/3. Mechanics.md
 
 markdown_extensions:
   - toc:
