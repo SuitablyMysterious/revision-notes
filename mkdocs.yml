@@ -1,0 +1,14 @@
+site_name: My Site
+site_url: https://username.github.io/repo-name/
+
+theme:
+  name: readthedocs
+
+nav:
+  - Home: index.md
+  - About: about.md
+
+markdown_extensions:
+  - toc:
+      permalink: true
+  - fenced_code
