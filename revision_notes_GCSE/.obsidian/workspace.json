@@ -121,12 +121,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/3. Mechanics.md",
+                "file": "Physics/2. Waves.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Mechanics"
+              "title": "2. Waves"
             }
           }
         ],
@@ -292,9 +292,14 @@
   },
   "active": "46aa20765d9b7d9a",
   "lastOpenFiles": [
-    "Physics/2. Waves.md",
     "Physics/1. Electromagnetism.md",
+    "Physics/0. Topic List.pdf",
+    "Images/Pasted image 20260415190526.png",
+    "Images/Pasted image 20260415185705.png",
+    "index.md",
     "Physics/3. Mechanics.md",
+    "German",
+    "Physics/2. Waves.md",
     "Chemistry/2. Formulae & Equations.md",
     "Chemistry/1. Atomic Structure, Bonding & Properties.md",
     "Chemistry/0. Topic List.md",
@@ -304,11 +309,8 @@
     "Biology",
     "1. Understanding.md",
     "Chemistry",
-    "Physics/0. Topic List.pdf",
-    "Images/Pasted image 20260415190526.png",
     "Images/Pasted image 20260415185639.png",
     "Images/Pasted image 20260415190410.png",
-    "Images/Pasted image 20260415185705.png",
     "Images/Pasted image 20260414194120.png",
     "Images/Pasted image 20260414193722.png",
     "Images/Pasted image 20260414192452.png",
