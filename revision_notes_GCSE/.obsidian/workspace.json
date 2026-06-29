@@ -81,56 +81,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chemistry/2. Formulae & Equations.md",
+                "file": "Geography/1. The Living World.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Formulae & Equations"
-            }
-          },
-          {
-            "id": "84735283e48df330",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
-            }
-          },
-          {
-            "id": "67c8629edd9fd8a4",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Biology/0. Topic List.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "0. Topic List"
-            }
-          },
-          {
-            "id": "46aa20765d9b7d9a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Physics/2. Waves.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2. Waves"
+              "title": "1. The Living World"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -162,7 +122,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "[\"cssclasses\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -263,21 +223,31 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "Geography/1. The Living World.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline of 1. The Living World"
+            }
+          },
+          {
+            "id": "1095616e7b0f5bfa",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 517.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -287,38 +257,45 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "46aa20765d9b7d9a",
+  "active": "fddd1bf13ab96246",
   "lastOpenFiles": [
+    "History/Textbook/psotmp.47719.img-63.sam2p-pr.png",
+    "History/Textbook/psotmp.47719.img-63.sam2p-np.pdf",
+    "History/Textbook/psotmp.47719.img-60.pngout.png",
+    "Chemistry/2. Formulae & Equations.md",
+    "History/Textbook/psotmp.47719.img-60.sam2p-pr.png",
+    "History/Textbook/psotmp.47719.img-60.sam2p-np.pdf",
+    "History/Textbook/psotmp.47719.img-59.pngout.png",
+    "Biology/0. Topic List.pdf",
+    "History/Textbook/psotmp.47719.img-59.sam2p-pr.png",
+    "History/Textbook/psotmp.47719.img-59.sam2p-np.pdf",
+    "History/Textbook/psotmp.47719.img-106.parse.png",
+    "History/Textbook/psotmp.47719.img-94.parse.png",
+    "History/Textbook/psotmp.47719.img-93.parse.png",
+    "History/Textbook/psotmp.47719.img-91.parse.png",
+    "History/Textbook/psotmp.47719.img-87.parse.png",
+    "History/Textbook/psotmp.47719.img-82.parse.png",
+    "History/Textbook/psotmp.47719.filter.tmp.bin",
+    "Untitled.base",
+    "Geography/1. The Living World.md",
+    "History/1. Weimar Germany.md",
+    "Geography",
+    "History/Textbook/1. Weimar Republic 1918-1929.pdf",
+    "Physics/2. Waves.md",
+    "History/Textbook/1. Weimar Republic 1918-1929.pdf.tmp",
+    "History/Textbook/psotmp.2786.img-106.sam2p-np.pdf",
     "Physics/1. Electromagnetism.md",
-    "Physics/0. Topic List.pdf",
-    "Images/Pasted image 20260415190526.png",
-    "Images/Pasted image 20260415185705.png",
     "index.md",
     "Physics/3. Mechanics.md",
-    "German",
-    "Physics/2. Waves.md",
-    "Chemistry/2. Formulae & Equations.md",
     "Chemistry/1. Atomic Structure, Bonding & Properties.md",
     "Chemistry/0. Topic List.md",
     "Biology/1. Cell Structure.md",
-    "Biology/0. Topic List.pdf",
     "Biology/0. Topic List.md",
-    "Biology",
     "1. Understanding.md",
-    "Chemistry",
-    "Images/Pasted image 20260415185639.png",
-    "Images/Pasted image 20260415190410.png",
-    "Images/Pasted image 20260414194120.png",
-    "Images/Pasted image 20260414193722.png",
-    "Images/Pasted image 20260414192452.png",
-    "Images/Pasted image 20260414190525.png",
-    "Images/Pasted image 20260414190418.png",
-    "Images/Pasted image 20260414184436.png",
-    "Images",
-    "Physics",
     "Welcome.md"
   ]
 }
