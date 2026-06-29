@@ -605,7 +605,7 @@ which itself is adapted from the diff2html library with the following original l
     .cm-gutterElement {
         display: grid;
 
-        /* Needed to align the sign properly for different line heigts. Such as
+        /* Needed to align the sign properly for different line heights. Such as
          * when having a heading or list item.
          */
         padding-top: 0 !important;
