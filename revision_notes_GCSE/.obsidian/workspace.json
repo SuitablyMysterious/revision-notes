@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7c10320c937848ef",
+            "id": "ecf9aae4b465b914",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "History/3. Nazi Control and Dictatorship.md",
+                "file": "Chemistry/3. Organic Chemistry.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Nazi Control and Dictatorship"
+              "title": "3. Organic Chemistry"
             }
           }
         ]
@@ -195,38 +195,40 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7c10320c937848ef",
+  "active": "ecf9aae4b465b914",
   "lastOpenFiles": [
+    "Images/cracking-hydrocarbons-236.jpg",
+    "Chemistry/2. Formulae & Equations.md",
+    "Chemistry/3. Organic Chemistry.md",
     "index.md",
-    "History/3. Nazi Control and Dictatorship.md",
+    "Images/Pasted image 20260414180453.png",
+    "Images/Pasted image 20260414182637.png",
+    "Images/Pasted image 20260414184436.png",
+    "Images/Pasted image 20260414190418.png",
+    "Images/Pasted image 20260414190525.png",
+    "Images/Pasted image 20260414192452.png",
+    "Images/Pasted image 20260414193722.png",
+    "Images/Pasted image 20260414194120.png",
+    "Images/Pasted image 20260415185639.png",
+    "Images/Pasted image 20260415185705.png",
+    "Chemistry/1. Atomic Structure, Bonding & Properties.md",
     "History/2. Rise of the Nazis.md",
+    "History/3. Nazi Control and Dictatorship.md",
     "Physics/2. Waves.md",
     "Physics/3. Mechanics.md",
     "Physics/1. Electromagnetism.md",
     "Geography/1. The Living World.md",
     "History/1. Weimar Germany.md",
     "History/Textbook/1. Weimar Republic 1918-1929.pdf",
-    "Chemistry/1. Atomic Structure, Bonding & Properties.md",
-    "Images/Pasted image 20260629192312.png",
     "History/Textbook/1. Weimar Republic 1918-1929.pdf.tmp",
-    "History/Textbook/psotmp.18820.img-105.oxipng.png",
-    "History/Textbook/psotmp.18820.img-105.save-oi.png",
     "History/Textbook/psotmp.18820.img-105.sam2p-np.pdf",
-    "History/Textbook/psotmp.18820.img-93.oxipng.png",
-    "History/Textbook/psotmp.18820.img-93.save-oi.png",
     "History/Textbook/psotmp.18820.img-93.sam2p-np.pdf",
-    "History/Textbook/psotmp.18820.img-92.oxipng.png",
-    "History/Textbook/psotmp.18820.img-92.save-oi.png",
     "History/Textbook/psotmp.18820.img-92.sam2p-np.pdf",
-    "History/Textbook/psotmp.18820.img-90.oxipng.png",
-    "History/Textbook/psotmp.18820.img-90.save-oi.png",
     "History/Textbook/psotmp.18820.img-90.sam2p-np.pdf",
-    "History/Textbook/psotmp.18820.img-86.oxipng.png",
     "History/Textbook/psotmp.18820.img-86.sam2p-np.pdf",
     "History/Textbook/psotmp.18820.img-81.sam2p-np.pdf",
     "History/Textbook/psotmp.18820.img-76.sam2p-np.pdf",
     "History/Textbook/psotmp.18820.img-74.sam2p-np.pdf",
-    "Chemistry/2. Formulae & Equations.md",
     "Chemistry/0. Topic List.md",
     "Biology/1. Cell Structure.md",
     "Biology/0. Topic List.md",
