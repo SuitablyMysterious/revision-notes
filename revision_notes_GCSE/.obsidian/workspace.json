@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chemistry/3. Organic Chemistry.md",
+                "file": "Geography/1. The Living World.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Organic Chemistry"
+              "title": "1. The Living World"
             }
           }
         ]
@@ -195,11 +195,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ecf9aae4b465b914",
+  "active": "a56a796ecd132905",
   "lastOpenFiles": [
+    "`",
+    "file:/home/suitablymysterious/Downloads/Swim/1990 ASA Masters Championships Results.pdf",
+    "Geography/1. The Living World.md",
+    "Geography/2. Rivers.md",
+    "Chemistry/3. Organic Chemistry.md",
     "Images/cracking-hydrocarbons-236.jpg",
     "Chemistry/2. Formulae & Equations.md",
-    "Chemistry/3. Organic Chemistry.md",
     "index.md",
     "Images/Pasted image 20260414180453.png",
     "Images/Pasted image 20260414182637.png",
@@ -210,14 +214,12 @@
     "Images/Pasted image 20260414193722.png",
     "Images/Pasted image 20260414194120.png",
     "Images/Pasted image 20260415185639.png",
-    "Images/Pasted image 20260415185705.png",
     "Chemistry/1. Atomic Structure, Bonding & Properties.md",
     "History/2. Rise of the Nazis.md",
     "History/3. Nazi Control and Dictatorship.md",
     "Physics/2. Waves.md",
     "Physics/3. Mechanics.md",
     "Physics/1. Electromagnetism.md",
-    "Geography/1. The Living World.md",
     "History/1. Weimar Germany.md",
     "History/Textbook/1. Weimar Republic 1918-1929.pdf",
     "History/Textbook/1. Weimar Republic 1918-1929.pdf.tmp",
@@ -228,7 +230,6 @@
     "History/Textbook/psotmp.18820.img-86.sam2p-np.pdf",
     "History/Textbook/psotmp.18820.img-81.sam2p-np.pdf",
     "History/Textbook/psotmp.18820.img-76.sam2p-np.pdf",
-    "History/Textbook/psotmp.18820.img-74.sam2p-np.pdf",
     "Chemistry/0. Topic List.md",
     "Biology/1. Cell Structure.md",
     "Biology/0. Topic List.md",
