@@ -39,14 +39,12 @@
             "id": "0718b938235a4b14",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Biology/4. Plant Biology.md",
-                "mode": "source",
-                "source": false
+                "file": "Biology/0. Topic List.pdf"
               },
-              "icon": "lucide-file",
-              "title": "4. Plant Biology"
+              "icon": "lucide-file-text",
+              "title": "0. Topic List"
             }
           }
         ],
@@ -226,6 +224,10 @@
   },
   "active": "0718b938235a4b14",
   "lastOpenFiles": [
+    "Physics/0. Topic List.pso.pdf",
+    "Biology/0. Topic List.pso.pdf",
+    "Biology/0. Topic List.pdf",
+    "Biology/4. Plant Biology.md",
     "Physics/4.1. Circuits Specification.pso.pdf",
     "Physics/psotmp.53163.filter.tmp.bin",
     "Physics/psotmp.53163.conv.gen.tmp.pdf",
@@ -234,13 +236,9 @@
     "Physics/gs_gdthTN",
     "Physics/gs_iaoWaB",
     "Physics/psotmp.53163.conv.gen.tmp.ps",
-    "Physics/psotmp.53163.conv.parsedata.tmp.ps",
-    "Physics/psotmp.53163.conv.parse.tmp.ps",
-    "Physics/0. Topic List.pso.pdf",
     "Images/Pasted image 20261110103806.png",
     "Images/Pasted image 20261110093005.png",
     "Biology/1. Cell Structure.md",
-    "Biology/4. Plant Biology.md",
     "Physics/1. Electromagnetism.md",
     "Images/Pasted image 20260414180453.png",
     "Physics/4. Circuits.md",
