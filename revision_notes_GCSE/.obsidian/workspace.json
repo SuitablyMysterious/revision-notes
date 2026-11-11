@@ -39,12 +39,14 @@
             "id": "0718b938235a4b14",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Biology/0. Topic List.pdf"
+                "file": "Geography/2. Rivers.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "0. Topic List"
+              "icon": "lucide-file",
+              "title": "2. Rivers"
             }
           }
         ],
@@ -222,12 +224,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0718b938235a4b14",
+  "active": "a56a796ecd132905",
   "lastOpenFiles": [
+    "Images/Pasted image 20261111103513.png",
+    "Images/Pasted image 20261111102028.png",
+    "Images/Pasted image 20261111100911.png",
+    "Images/Pasted image 20261111100806.png",
+    "Images/Pasted image 20261111095935.png",
+    "Geography/1. The Living World.md",
+    "Geography/2. Rivers.md",
+    "History/3. Nazi Control and Dictatorship.md",
+    "Biology/4. Plant Biology.md",
+    "Biology/1. Cell Structure.md",
+    "Biology/0. Topic List.pdf",
     "Physics/0. Topic List.pso.pdf",
     "Biology/0. Topic List.pso.pdf",
-    "Biology/0. Topic List.pdf",
-    "Biology/4. Plant Biology.md",
     "Physics/4.1. Circuits Specification.pso.pdf",
     "Physics/psotmp.53163.filter.tmp.bin",
     "Physics/psotmp.53163.conv.gen.tmp.pdf",
@@ -235,10 +246,8 @@
     "Physics/gs_tZLbwa",
     "Physics/gs_gdthTN",
     "Physics/gs_iaoWaB",
-    "Physics/psotmp.53163.conv.gen.tmp.ps",
     "Images/Pasted image 20261110103806.png",
     "Images/Pasted image 20261110093005.png",
-    "Biology/1. Cell Structure.md",
     "Physics/1. Electromagnetism.md",
     "Images/Pasted image 20260414180453.png",
     "Physics/4. Circuits.md",
@@ -246,19 +255,12 @@
     "Images/Pasted image 20261109191449.png",
     "Images/Pasted image 20261109191308.png",
     "Images/Pasted image 20261109191047.png",
-    "Images/Pasted image 20261109184250.png",
     "Physics/2. Waves.md",
     "Physics/3. Mechanics.md",
-    "Geography/1. The Living World.md",
-    "Geography/2. Rivers.md",
-    "History/3. Nazi Control and Dictatorship.md",
     "History/2. Rise of the Nazis.md",
     "History/1. Weimar Germany.md",
-    "Images/Pasted image 20261109182405.png",
     "Chemistry/3. Organic Chemistry.md",
-    "Images/cracking-hydrocarbons-236.jpg",
     "Chemistry/2. Formulae & Equations.md",
-    "Images/Pasted image 20260414182637.png",
     "Chemistry/1. Atomic Structure, Bonding & Properties.md",
     "Chemistry/0. Topic List.md",
     "Biology/0. Topic List.md",
