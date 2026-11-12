@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geography/2. Rivers.md",
+                "file": "Biology/4. Plant Biology.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Rivers"
+              "title": "4. Plant Biology"
             }
           }
         ],
@@ -224,15 +224,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a56a796ecd132905",
+  "active": "0718b938235a4b14",
   "lastOpenFiles": [
+    "Geography/2. Rivers.md",
     "Images/Pasted image 20261111103513.png",
     "Images/Pasted image 20261111102028.png",
     "Images/Pasted image 20261111100911.png",
     "Images/Pasted image 20261111100806.png",
     "Images/Pasted image 20261111095935.png",
     "Geography/1. The Living World.md",
-    "Geography/2. Rivers.md",
     "History/3. Nazi Control and Dictatorship.md",
     "Biology/4. Plant Biology.md",
     "Biology/1. Cell Structure.md",
@@ -254,7 +254,6 @@
     "index.md",
     "Images/Pasted image 20261109191449.png",
     "Images/Pasted image 20261109191308.png",
-    "Images/Pasted image 20261109191047.png",
     "Physics/2. Waves.md",
     "Physics/3. Mechanics.md",
     "History/2. Rise of the Nazis.md",
